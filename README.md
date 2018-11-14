@@ -1,2 +1,2 @@
-# random-fact-bot
+# maobot
 
